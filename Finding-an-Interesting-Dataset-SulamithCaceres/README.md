@@ -9,21 +9,12 @@ For this analysis, I will be using the csv file "Top Hits Spotify from 2000-2019
 No. | Question
 :-:|:-
 1 | How does the year a song was released in correlate with how many streams it gets?
-
 2 | For a song to be a hit on Spotify, does it matter if its explicit or not? 
-
 3 | Is a song more likely to become a Spotify hit if it is explicit?
-
 4 | In which years did Spotify hits have higher danceability rates?
-
 5 | In which years did the energy of a song correlate with becoming a Spotify hit?
-
 6 | What year resulted with the highest number of Spotify hits?
-
 7 | What year resulted with the lowest number of Spotify hits?
-
 8 | Which Spotify hits were the most popular by year?
-
 9 | Around which years were there the least popular songs?
-
 10 | Does energy of a song correlated with danceability?
